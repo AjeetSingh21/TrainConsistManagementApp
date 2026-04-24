@@ -33,6 +33,7 @@ public class app {
         System.out.println("3. Null Comparison: " + f1.equals(null));
         System.out.println("4. Different Type: " + f1.equals("1.0"));
         System.out.println("5. Same Reference: " + f1.equals(f1));
+        //
 
     }
 }
